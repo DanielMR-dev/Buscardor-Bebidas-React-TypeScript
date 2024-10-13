@@ -2,7 +2,7 @@
 function App() {
 	return (
 		<>
-			<h1>Buscador de Bebidas</h1>
+			<h1 className="text-5xl">Buscador de Bebidas</h1>
 		</>
 	)
 }
